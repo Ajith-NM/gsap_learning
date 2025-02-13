@@ -53,7 +53,7 @@ header ul li::after {
   left: 0;
   height: 2px;
   width: 0%;
-  background-color: rgb(198, 58, 42);
+  background-color: whitesmoke;
   border-radius: 8px;
   transition: 0.5s;
 }
@@ -67,7 +67,7 @@ header ul li a {
   font-weight: 400;
   font-size: 18px;
   text-decoration: none;
-  color: #111;
+  color: #fff;
 }
 
 .parallax img{
